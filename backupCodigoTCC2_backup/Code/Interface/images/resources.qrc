@@ -1,0 +1,29 @@
+<RCC>
+    <qresource prefix="/">
+        <file>darkExperiment.png</file>
+        <file>darkHistory.png</file>
+        <file>lightHistory.png</file>
+        <file>lightExperiment.png</file>
+        <file>darkConfiguration.png</file>
+        <file>lightConfiguration.png</file>
+        <file>Arrow.png</file>
+        <file>light_history.png</file>
+        <file>light_configuration.png</file>
+        <file>light_experiment.png</file>
+        <file>dark_configuration.png</file>
+        <file>dark_experiment.png</file>
+        <file>dark_history.png</file>
+        <file>init.png</file>
+        <file>dark_info.png</file>
+        <file>light_info.png</file>
+        <file>dark_densification.png</file>
+        <file>dark_shear.png</file>
+        <file>light_densification.png</file>
+        <file>light_shear.png</file>
+        <file>cancel.png</file>
+        <file>moveLeft.png</file>
+        <file>moveRight.png</file>
+        <file>finish.png</file>
+        <file>download.png</file>
+    </qresource>
+</RCC>
