@@ -1,3 +1,3 @@
-# shear_machine_infralab
 # git_test
-# git_test
+
+Utilizado para testar o github da raspberrypi
